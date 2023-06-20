@@ -16,10 +16,14 @@ const Footer = () => {
               >
                 <i className="fa-brands fa-facebook"></i>
               </a>
-              <a className="button_footer" href="#!">
-                <i className="fab fa-twitter"></i>
+              <a
+                className="button_footer"
+                href="https://wa.me/5521977058010"
+                target="_blank"
+              >
+                <i class="fa-brands fa-whatsapp fa-lg"></i>
               </a>
-              <a className="button_footer" href="#!">
+              <a className="button_footer" href="#">
                 <i className="fab fa-google"></i>
               </a>
               <a
@@ -29,7 +33,7 @@ const Footer = () => {
               >
                 <i className="fab fa-instagram"></i>
               </a>
-              <a className="button_footer" href="#!">
+              <a className="button_footer" href="#">
                 <i className="fab fa-linkedin-in"></i>
               </a>
             </div>

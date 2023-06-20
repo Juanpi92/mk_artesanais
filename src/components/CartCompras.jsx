@@ -53,7 +53,7 @@ const CartCompras = () => {
               className="button_principal button_whatsapp"
               onClick={HandleComprar}
             >
-              <i className="fa-brands fa-whatsapp"></i> Comprar
+              <i class="fa-brands fa-whatsapp fa-beat fa-xl"></i> Comprar
             </button>
           </div>
         </div>
