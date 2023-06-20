@@ -16,7 +16,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="title">
           <img src={Logo} className="logo"></img>
-          <span> Burguer Safada</span>
+          <span> MK ARTESANAIS</span>
         </div>
         <a className="toggle_button" onClick={HandleClick}>
           <span className="bar"></span>
