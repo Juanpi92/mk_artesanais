@@ -12,7 +12,6 @@ import { actualizarCart, actualizarProductos } from "./reducer/shoopingReducer";
 import { products } from "./api/db";
 
 function App() {
-  const [modal, setModal] = useState(true);
   const dispatch = useDispatch();
   const state = useSelector((state) => state);
 

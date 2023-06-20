@@ -8,8 +8,8 @@ const About = () => {
     height: "400px",
   };
   const position = {
-    lat: -23.61388662054276,
-    lng: -46.47981128762322,
+    lat: -22.85019720942373,
+    lng: -43.53525379181903,
   };
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",

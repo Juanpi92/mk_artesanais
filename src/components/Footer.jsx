@@ -9,7 +9,11 @@ const Footer = () => {
           <div className="siguenos">
             <p className="descripcion">Siguenos:</p>
             <div className="social">
-              <a className="button_footer" href="#!">
+              <a
+                className="button_footer"
+                href="https://www.facebook.com/profile.php?id=100093660517720&notif_id=1687100274217475&notif_t=page_user_activity&ref=notif"
+                target="_blank"
+              >
                 <i className="fa-brands fa-facebook"></i>
               </a>
               <a className="button_footer" href="#!">
@@ -18,7 +22,11 @@ const Footer = () => {
               <a className="button_footer" href="#!">
                 <i className="fab fa-google"></i>
               </a>
-              <a className="button_footer" href="#!">
+              <a
+                className="button_footer"
+                href="https://www.instagram.com/mk.culinaria.artesanal/"
+                target="_blank"
+              >
                 <i className="fab fa-instagram"></i>
               </a>
               <a className="button_footer" href="#!">
@@ -29,15 +37,14 @@ const Footer = () => {
           <div className="contacto">
             <p className="descripcion">Contacto</p>
             <div>
-              <i className="fa-solid fa-house"></i> Rua Ministro Luis Sparano
-              373
+              <i className="fa-solid fa-house"></i> R. do Sulista, 812 - Campo
+              Grande, Rio de Janeiro - RJ, 23098-630
             </div>
             <div>
-              <i className="fa-solid fa-phone"></i> +55 11 94893-8258
+              <i className="fa-solid fa-phone"></i> +55 21 97705-8010
             </div>
             <div>
-              <i className="fa-solid fa-envelope"></i>{" "}
-              burguersafadahouse@gmail.com
+              <i className="fa-solid fa-envelope"></i> mk_artesanais@gmail.com
             </div>
           </div>
         </div>

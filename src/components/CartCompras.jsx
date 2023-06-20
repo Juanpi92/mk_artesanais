@@ -19,7 +19,7 @@ const CartCompras = () => {
       mensagem += `${cart[index].name}----${cart[index].quantity}\n`;
     }
     window.open(
-      `https://wa.me/5511948938258?text=${encodeURIComponent(mensagem)}`,
+      `https://wa.me/5521977058010?text=${encodeURIComponent(mensagem)}`,
       "_blank"
     );
     dispatch(delCart());
