@@ -32,27 +32,6 @@ const About = () => {
             </p>
           </div>
         </section>
-
-        <section className="section">
-          <div className="title_principal">
-            <p>Você conhece o nossos Burguers?</p>
-          </div>
-          <div className="about">
-            <div className="servicos__preco">
-              <h2>Até 3km:</h2>
-              <p>Não paga entrega</p>
-            </div>
-            <div className="servicos__preco">
-              <h2>3km-5km:</h2>
-              <p>Quem estiver entre 3km e 5km paga R$ 8,00 de entrega</p>
-            </div>
-            <div className="servicos__preco">
-              <h2>5km-7km:</h2>
-              <p>Quem estiver entre 5km e 7km paga R$ 10,00 de entrega</p>
-            </div>
-          </div>
-        </section>
-
         <section className="section" id="map">
           <div className="title_principal">
             <p>Encontrenos em:</p>
