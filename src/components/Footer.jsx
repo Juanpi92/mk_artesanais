@@ -23,7 +23,11 @@ const Footer = () => {
               >
                 <i class="fa-brands fa-whatsapp fa-lg"></i>
               </a>
-              <a className="button_footer" href="#">
+              <a
+                className="button_footer"
+                href="mailto:mk_artesanais@gmail.com"
+                target="_blank"
+              >
                 <i className="fab fa-google"></i>
               </a>
               <a
